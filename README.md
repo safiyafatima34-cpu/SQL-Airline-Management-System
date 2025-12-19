@@ -2,6 +2,7 @@
 
 
 ## 📌 Project Overview :
+
 This project is a **SQL-based Airline Management System** developed using **MySQL Workbench**.
 
 It demonstrates how airline data such as **flights, passengers, and bookings** can be stored, managed, and analyzed using structured SQL queries.
