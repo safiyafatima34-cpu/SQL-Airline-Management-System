@@ -16,11 +16,17 @@ The project focuses on **real-world airline operations**, including passenger bo
 
 ## 🗄 Database Tables :
 The project consists of three main tables:
-* **FLIGHTS**
-  Stores flight details such as flight number, source city, and destination city.
+
+* **FLIGHTS** *
+
+   Stores flight details such as flight number, source city, and destination city.
+  
 * **PASSENGERS**
+
   Stores passenger details including name, age, and city.
+  
 * **BOOKINGS**
+
   Stores booking information such as passenger ID, flight ID, ticket price, and travel date.
 
 All tables are connected using **primary keys and foreign keys** to maintain data integrity.
