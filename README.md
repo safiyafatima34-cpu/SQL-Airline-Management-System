@@ -57,6 +57,7 @@ All tables are connected using **primary keys and foreign keys** to maintain dat
 
 ## ✅ Project Status :
 ✔ Completed
+
 ✔ Tested in MySQL Workbench
 
 
