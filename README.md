@@ -19,7 +19,7 @@ The project focuses on **real-world airline operations**, including passenger bo
 ## 🗄 Database Tables :
 The project consists of three main tables:
 
-* **FLIGHTS** *
+* **FLIGHTS** 
 
    Stores flight details such as flight number, source city, and destination city.
   
